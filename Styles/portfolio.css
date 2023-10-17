@@ -185,3 +185,32 @@ main {
     font-size: 16px;
     font-weight: 400;
 }
+.column-title{
+    color: var(--Dark-02, #474747);
+    font-size: 30px;
+    font-weight: 700;
+}
+.resume-container{
+    display: flex;
+    gap: 70px;
+}
+.qualification{
+    color: var(--Dark-02, #474747);
+font-size: 25px;
+font-weight: 700;
+}
+.institute{
+    color: var(--Dark-03, #757575);
+font-size: 20px;
+font-weight: 600;
+}
+ .resume-des {
+    color: var(--Dark-03, #757575);
+font-size: 16px;
+font-weight: 400;
+line-height: 28px; /* 175% */
+}
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
+}
